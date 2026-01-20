@@ -1,2 +1,2 @@
 payload:
-  - DOMAIN-SUFFIX,example.com,PASS
+  - GEOSITE,category-games,DIRECT
