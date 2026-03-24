@@ -1,3 +1,2 @@
 payload:
   - GEOSITE,PRIVATE
-  - GEOIP,PRIVATE,no-resolve
