@@ -1,2 +1,4 @@
 payload:
   - GEOSITE,win-update
+  - GEOSITE,category-games
+  - DOMAIN-REGEX,'[\w.]*worldof(?:tanks|warships|warplanes)\.(?:asia|jp)'
