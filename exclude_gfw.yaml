@@ -1,5 +1,2 @@
 payload:
-  - GEOSITE,category-games@cn
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-REGEX,'[\w.]*worldof(?:tanks|warships|warplanes)\.(?:asia|jp)'
-  - DOMAIN-SUFFIX,wargaming.net
+  - DOMAIN-SUFFIX,example.com,PASS
