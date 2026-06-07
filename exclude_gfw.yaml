@@ -1,2 +1,2 @@
 payload:
-  - GEOSITE,category-companies@cn
+  - DOMAIN-SUFFIX,example.com,PASS
