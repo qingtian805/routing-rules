@@ -3,5 +3,6 @@ payload:
   - GEOSITE,category-games
   - DOMAIN-REGEX,'[\w.]*worldof(?:tanks|warships|warplanes)\.(?:asia|jp)'
   - DOMAIN-SUFFIX,ustclug.org
+  - DOMAIN-SUFFIX,loli.net
   # Email ports
   - AND,((NETWORK,TCP),(DST-PORT,137-139/993-995,25,109,110,135,143,465,587))
