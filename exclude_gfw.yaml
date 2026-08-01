@@ -1,4 +1,3 @@
 payload:
   - GEOSITE,bing
   - GEOSITE,google-cn
-  - DOMAIN-REGEX,'(?:fastly|gcore)\.jsdelivr\.net'
